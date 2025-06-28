@@ -1,1 +1,0 @@
-# square_in_c
