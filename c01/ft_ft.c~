@@ -11,7 +11,7 @@ int main(void)
 	int	n;
 	int *p = &n;
 
-	ft_ft(p);
+	ft_ft(&p);
 	printf("%d", n);
 	return (0);
 }
